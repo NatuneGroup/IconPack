@@ -21,9 +21,9 @@ Upstream icon pack: rukamori/IconPack at `950d412`. Forked from that point; the 
 
 - **Six icons replaced with Natune artwork.** The `Id` of each is unchanged, so a user's chosen icon survives the update.
 - **Two new icons:** *Autumn* and *Synthwave*.
-- **Nine icons redrawn for Natune.** Their old artwork still carried the ArchiveTune mark, which is interleaved with the traced art and could not be removed cleanly. Each redraw keeps its original palette and motif and uses the Natune note mark.
+- **Nine icons redrawn for Natune.** Their old artwork still carried the ArchiveTune mark, which is interleaved with the traced art and could not be removed cleanly. Each redraw keeps its original palette and motif and uses the Natune record-and-seedling mark.
 - **Three restored Ids.** Upstream removed *Bricks* (`320974`), *Satoru Gojo* (`539452`) and *Guest Roblox* (`980484`). This fork restores each Id: *Bricks* is a Natune redraw of the upstream icon, and *Infinity* (`539452`) and *Guest* (`980484`) are new designs with no character or brand marks.
-- The Natune note mark is kept within the adaptive-icon safe zone (66 dp) in every icon. It is centred in all but *Guest*, where it sits on the avatar's shirt.
+- The Natune record-and-seedling mark is kept within the adaptive-icon safe zone (66 dp) in every icon. It is centred in all but *Guest*, where it sits on the avatar's shirt.
 - Legacy `pack/` and `xml/` files and the previews of replaced icons were removed. Upstream history is intact.
 - `Submission` pointers were dropped; this fork has no `submissions/` backlog.
 
